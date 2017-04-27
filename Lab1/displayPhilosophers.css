@@ -1,0 +1,12 @@
+img{
+	height: 64px;
+    width: 64px;
+}
+
+.true{
+	visibility: "visible";
+}
+
+.false{
+	visibility: hidden;
+}
